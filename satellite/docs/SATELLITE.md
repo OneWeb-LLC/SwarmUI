@@ -1,6 +1,6 @@
 # SwarmUI — OWeb satellite
 
-`app_id`: **swarmui** (register in OWeb `ecosystem-apps.ts` before App Store launch)  
+`app_id`: **swarmui** (registered in OWeb `ecosystem-apps.ts`; App Store launch via `https://oweb.one/login?launch=swarmui`)  
 Auth host: **https://auth.oweb.one**  
 Control plane: **https://oweb.one**  
 Vercel project: **swarmui-oweb** (`satellite/` root directory)
